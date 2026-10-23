@@ -1,7 +1,7 @@
 # StangaNetLib.FeatureFlags
 
 [![.NET CI](https://github.com/StangaNet/StangaNetLib.FeatureFlags/actions/workflows/main.yml/badge.svg)](https://github.com/StangaNet/StangaNetLib.FeatureFlags/actions/workflows/main.yml)
-![NuGet](https://img.shields.io/badge/nuget-1.0.0-blue)
+![NuGet](https://img.shields.io/badge/nuget-1.0.1-blue)
 ![.NET](https://img.shields.io/badge/.NET-8.0%20%7C%209.0%20%7C%2010.0-512BD4)
 
 Feature flags with percentage rollout, tenant allow-lists, runtime overrides, and live configuration reload. Failures and lookups surface as `Result` / `Result<T>` from [`StangaNetLib.Core`](https://github.com/StangaNet/StangaNetLib.Core).

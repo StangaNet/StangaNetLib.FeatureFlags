@@ -3,7 +3,7 @@
     <TargetFrameworks>net8.0;net9.0;net10.0</TargetFrameworks>
     <AssemblyName>StangaNetLib.FeatureFlags</AssemblyName>
     <RootNamespace>StangaNetLib.FeatureFlags</RootNamespace>
-    <Version>1.0.0</Version>
+    <Version>1.0.1</Version>
     <Description>Feature flag abstraction with in-memory and configuration-backed backends, percentage rollout, and tenant-aware evaluation. Depends on StangaNetLib.Core.</Description>
     <PackageTags>featureflags;featuretoggle;rollout;tenancy;stanganet</PackageTags>
   </PropertyGroup>
